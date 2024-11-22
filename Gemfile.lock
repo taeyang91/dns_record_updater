@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     dns_record_updater (0.1.0)
-      json
-      net-http
+      json (~> 2.0)
+      net-http (~> 0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -47,9 +47,9 @@ PLATFORMS
 
 DEPENDENCIES
   dns_record_updater!
-  rake
-  rspec
-  webmock
+  rake (~> 13.0)
+  rspec (~> 3.0)
+  webmock (~> 3.0)
 
 BUNDLED WITH
    2.5.21
