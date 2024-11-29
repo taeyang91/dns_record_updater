@@ -1,6 +1,9 @@
-# DnsRecordUpdater
+# dns_record_updater [![Gem Version][]][gem-version]
 
-Library for updating DNS record on Cloudflare with support for notifications.
+Library for updating IPv4 DNS records on Cloudflare with support for notifications.
+
+[Gem Version]: https://badge.fury.io/rb/dns_record_updater.svg
+[gem-version]: https://rubygems.org/gems/dns_record_updater
 
 ## Installation
 
